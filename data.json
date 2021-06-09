@@ -1,0 +1,17 @@
+[
+    {
+        "kode": "P1",
+        "penyakit": "Bronkitis",
+        "gejala": "Batuk, Pilek, Sesak Napas"
+    },
+    {
+        "kode": "P2",
+        "penyakit": "Bronkopneumonia",
+        "gejala": "Sesak Napas, Napas Cepat, Demam, Diare"
+    },
+    {
+        "kode": "P3",
+        "penyakit": "Pertusis Spasmodik",
+        "gejala": "Batuk, Mengi, Suara Kering, Muka Kemerahan"
+    }
+]
