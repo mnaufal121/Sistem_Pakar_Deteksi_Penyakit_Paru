@@ -1,0 +1,38 @@
+[
+    {
+        "kode": "G1",
+        "gejala": "Batuk"
+    },
+    {
+        "kode": "G2",
+        "gejala": "Demam"
+    },
+    {
+        "kode": "G3",
+        "gejala": "Sesak Napas"
+    },
+    {
+        "kode": "G4",
+        "gejala": "Pilek"
+    },
+    {
+        "kode": "G5",
+        "gejala": "Mengi"
+    },
+    {
+        "kode": "G6",
+        "gejala": "Napas Cepat"
+    },
+    {
+        "kode": "G7",
+        "gejala": "Diare"
+    },
+    {
+        "kode": "G8",
+        "gejala": "Muka Kemerahan"
+    },
+    {
+        "kode": "G9",
+        "gejala": "Suara Kering"
+    }
+]
