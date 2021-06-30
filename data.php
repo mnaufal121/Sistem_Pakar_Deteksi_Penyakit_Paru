@@ -1,14 +1,14 @@
 <?php
 
-$dgejala = "Data/gejala.json";
+$dgejala = "gejala.json";
 $kgejala = file_get_contents($dgejala);
 $gejala = json_decode($kgejala, true);
 
-$dpenyakit = "Data/penyakit.json";
+$dpenyakit = "penyakit.json";
 $kpenyakit = file_get_contents($dpenyakit);
 $penyakit = json_decode($kpenyakit, true);
 
-$dcf = "Data/cf.json";
+$dcf = "cf.json";
 $kcf = file_get_contents($dcf);
 $nilaicf = json_decode($kcf, true);
 
